@@ -16,5 +16,5 @@ class Solution:
                     return False
                 
             return True
-        
+        #各种情况要考虑清楚，负数，正数，个位数整数等等。
             
